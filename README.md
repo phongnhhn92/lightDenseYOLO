@@ -37,7 +37,7 @@ lightDenseYOLO was trained with two famous object detection datasets (MS COCO an
 **Build:**
 + Create a new Qt project,
 + Copy all existing file in the project folder. 
-+ Create a new folder named **data** next to the create project folder and copy the weight file and the cfg file there.
++ Create a new folder named **data** next to the created project folder and copy the weight file and the cfg file there.
 + Hit build and run.
 
 **Example video**
