@@ -1,9 +1,7 @@
 # lightDenseYOLO
-======
+
 A real-time object detection app based on lightDenseYOLO
-Our lightDenseYOLO is the combination of two components: 
-⋅⋅*lightDenseNet as the CNN feature extractor
-⋅⋅*YOLO v2 as the detection module
+Our lightDenseYOLO is the combination of two components: lightDenseNet as the CNN feature extractor and YOLO v2 as the detection module
 
 lightDenseYOLo was trained with two famous object detection datasets (MS COCO and Pascal VOC 07+12)
 
@@ -22,7 +20,11 @@ lightDenseYOLo was trained with two famous object detection datasets (MS COCO an
 
 # References
 1.[LightDenseYOLO: A Fast and Accurate Marker Tracker for Autonomous UAV Landing by Visible Light Camera Sensor on Drone](http://www.mdpi.com/1424-8220/18/6/1703)
+
 2.[YOLO 9000](https://arxiv.org/abs/1612.08242)
+
 3.[Faster-RCNN](https://arxiv.org/abs/1506.01497)
+
 4.[MobileNets](https://arxiv.org/abs/1704.04861)
+
 5.[MobileNets+SSD](https://ieeexplore.ieee.org/document/8099834/)
