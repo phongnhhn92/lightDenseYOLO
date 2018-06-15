@@ -41,7 +41,7 @@ lightDenseYOLO was trained with two famous object detection datasets (MS COCO an
 + Hit build and run.
 
 **Example video**
-[Youtube link](https://www.youtube.com/watch?v=XfbD2THhfiY&feature=youtu.be)
++ [Youtube link](https://www.youtube.com/watch?v=XfbD2THhfiY&feature=youtu.be)
 
 # References
 1.[LightDenseYOLO: A Fast and Accurate Marker Tracker for Autonomous UAV Landing by Visible Light Camera Sensor on Drone](http://www.mdpi.com/1424-8220/18/6/1703)
